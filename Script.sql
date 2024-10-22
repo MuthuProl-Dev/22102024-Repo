@@ -1,5 +1,5 @@
 
 -- Data for Employees
-GO
-
+  Insert into Employees (ID,FirstName,LastName,Department) values ('1','Muthu','Pandi','IT')
+  Insert into Employees (ID,FirstName,LastName,Department) values ('2','Arshad','Ahamed','IT')
 
